@@ -11,6 +11,7 @@ After writing  my Web app using Python, I decided my next project will be a mobi
 ## Project creation:
 * java version: 11
 * android studio
+* SQLite db
 * 7 day challenge- summer vacation self project
 	
 ## App screenshots:
