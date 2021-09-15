@@ -1,8 +1,7 @@
 ## Water_plan-T_Mobile_App
 
 ## General info
-This project is my first developed mobile app
-After writing  my Web app using Python, I decided my next challenge will be a mobile app!
+After writing  my Web app using Python, I decided my next project will be a mobile app! I challenged myself to a 7-day-challenge, to learn from scratch and code a running useful android app! This was an amazing experience, got to learn so much and also was surprised how much I enjoyed it!
 
 ## App Use
 * This android app keeps a log of your plants 
