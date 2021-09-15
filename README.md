@@ -13,3 +13,5 @@ After writing  my Web app using Python, I decided my next project will be a mobi
 * android studio
 * 7 day challenge- summer vacation self project
 	
+## App screenshots:
+![app_image](https://user-images.githubusercontent.com/71632360/133446128-82dbcbf9-67a8-44c6-a3ea-28d9e1ee28da.jpg)
