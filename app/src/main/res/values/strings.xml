@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">water plan-T</string>
+    <string name="soil">Is the Soil dry?</string>
+    <string name="button_text">UPLOAD</string>
+
+    <string name="default_notification_channel_id">AAAABL_2HxY:APA91bFDmQTbQP8jPiuSyaTjg07gG39pRu88PAoP5CacFiOas9DdFoJ9kmVv9sTFOhl6wBHk582iDoWsqt8G8Wq8cV2HZiq-aZ3YyrnWrgQJTfoLv1Pd3DV2Qi8AlR48DyEYzmsHfdrF</string>
+    <string name="channel_name">aaaaaaaa1111111aaaa</string>
+    <string name="channel_description">my_plant_description</string>
+
+</resources>

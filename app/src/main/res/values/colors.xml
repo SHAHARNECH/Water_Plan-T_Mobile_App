@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D7A2BEA8</color>
+    <color name="colorPrimaryDark">#8A705B</color>
+    <color name="colorAccent">#ECA78D</color>
+    <color name="add_btn">#B216934A</color>
+    <color name="edit_hld">#D7A2BEA8</color>
+    <color name="edit_back">#F5DAD2</color>
+    <color name="colorWater">#6EA7C2</color>
+    <color name="colorEdit">#6A986B</color>
+    <color name="colorhlder">#E3C2B1</color>
+    <color name="plant_hldr">#E3C2B1</color>
+
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    //CREDITS for images:
+    //Water icon by Icons8
+    //https://fontawesome.com/v5.15/icons/seedling?style=solid
+    $project
+    ========
+
+    $project will solve your problem of where to start with documentation,
+    by providing a basic explanation of how to do it easily.
+
+    Look how easy it is to use:
+
+    import project
+    # Get your stuff done
+    project.do_stuff()
+
+    Features
+    --------
+
+    - Be awesome
+    - Make things faster
+</androidx.constraintlayout.widget.ConstraintLayout>
