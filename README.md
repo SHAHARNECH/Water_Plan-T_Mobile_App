@@ -15,7 +15,4 @@ After writing  my Web app using Python, I decided my next project will be a mobi
 * Makes taking care of plants much easier!
 
 ## App screenshots:
-![VideoCapture_20211026-124215](https://user-images.githubusercontent.com/71632360/140046159-0bb171f8-d1b1-4fb5-9a21-3cee95fe53ca.jpg)
-
-
-
+![VideoCapture_20211026-124215](https://user-images.githubusercontent.com/71632360/140046477-61b4b5e7-0af5-4fa1-88da-87d5c0e1642f.jpg)
