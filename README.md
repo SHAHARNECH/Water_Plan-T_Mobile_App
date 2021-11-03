@@ -8,11 +8,16 @@ After writing  my Web app using Python, I decided my next project will be a mobi
 * android studio
 * SQLite db
 * 7 day challenge- summer vacation self project
-* 
+
 ## App Use
 * Keeps a personal log of your plants 
 * Pushes notifications to check the moisture of your plants soil, in order to water them only when needed
 * Makes taking care of plants much easier!
 
 ## App screenshots:
+
+https://user-images.githubusercontent.com/71632360/140047567-327c19a9-1b4b-451c-8856-e6bfd207a53e.mp4
+
 ![VideoCapture_20211026-124215](https://user-images.githubusercontent.com/71632360/140046477-61b4b5e7-0af5-4fa1-88da-87d5c0e1642f.jpg)
+
+
