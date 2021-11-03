@@ -16,8 +16,6 @@ After writing  my Web app using Python, I decided my next project will be a mobi
 
 ## App screenshots:
 
-https://user-images.githubusercontent.com/71632360/140047567-327c19a9-1b4b-451c-8856-e6bfd207a53e.mp4
-
 ![VideoCapture_20211026-124215](https://user-images.githubusercontent.com/71632360/140046477-61b4b5e7-0af5-4fa1-88da-87d5c0e1642f.jpg)
 
 
